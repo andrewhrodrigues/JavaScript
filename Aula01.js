@@ -1,4 +1,4 @@
-//Tipos de dados: Number
+//Tipo de dado: Number
 
 const primeiroNumero = 1;
 const segundoNumero = 2;
