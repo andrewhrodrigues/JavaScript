@@ -1,4 +1,4 @@
-//Tipos de dados: Boolean 
+//Tipo de dado: Boolean 
 
 const primeiroNumero = 3;
 const segundoNumero = 5;
