@@ -1,4 +1,4 @@
-//Operador ternário
+//If else
 
 const idadeMinima = 18;
 const idadeCliente = 16;
